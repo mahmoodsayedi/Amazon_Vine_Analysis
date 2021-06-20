@@ -22,7 +22,7 @@ Here are my answers to these questions.
 
 ![5_star_reviews](https://github.com/mahmoodsayedi/amazon_vine_analysis/blob/main/visualizations/5_star_reviews.png)
 
-3. 51.06% of paid reviews are 5-stars and 38.7% of unpaid reveiws are 5-stars.
+3. 51.06% of paid reviews are 5-stars and 38.7% of unpaid reveiws are 5-stars. 
 
 ![percentage_5_stars](https://github.com/mahmoodsayedi/amazon_vine_analysis/blob/main/visualizations/percentage_5_stars.png)
 

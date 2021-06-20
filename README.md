@@ -26,6 +26,6 @@ Here are my answers to these questions.
 
 ![percentage_5_stars](https://github.com/mahmoodsayedi/amazon_vine_analysis/blob/main/visualizations/percentage_5_stars.png)
 
-## Summary
+## Summary 
 
 After looking that the results, I would conclude that there is a positivity bias for reviews in the Vine program. It is important to note that while the non-vine sample size was very large, the vine sample size was less than 100 entries. While 94 entires is still a decent number to sample with, it could lead a less signifcant result. In addition to the current analysis, I could take it a step further and see the percentage of those who purchased the product by filtering through the verified_purchase column to either confirm or fail to confirm if there is a positivity bias for reviews in the Vine program.
